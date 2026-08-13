@@ -120,6 +120,9 @@ RETURN nodes(path) as nodes, relationships(path) as rels
 
 ## 📸 Demo & Screenshots
 
+### Live Simulation Demo
+![FinCrime Demo Recording](./media/demo_video.webp)
+
 ### Dashboard Overview
 ![Initial Dashboard](./media/dark_dashboard_1786622491832.png)
 
