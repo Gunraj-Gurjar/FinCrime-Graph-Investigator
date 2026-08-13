@@ -121,7 +121,10 @@ RETURN nodes(path) as nodes, relationships(path) as rels
 ## 📸 Demo & Screenshots
 
 ### Live Simulation Demo
-<video src="./media/demo_video.mp4" controls="controls" muted="muted" width="100%"></video>
+
+https://github.com/Gunraj-Gurjar/FinCrime-Graph-Investigator/raw/master/media/demo_video.mp4
+
+*(If the video player doesn't load, [click here to watch the demo video](https://github.com/Gunraj-Gurjar/FinCrime-Graph-Investigator/blob/master/media/demo_video.mp4))*
 
 ### Dashboard Overview
 ![Initial Dashboard](./media/dark_dashboard_1786622491832.png)
