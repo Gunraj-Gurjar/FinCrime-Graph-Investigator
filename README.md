@@ -121,7 +121,7 @@ RETURN nodes(path) as nodes, relationships(path) as rels
 ## 📸 Demo & Screenshots
 
 ### Live Simulation Demo
-![FinCrime Demo Recording](./media/demo_video.webp)
+<video src="./media/demo_video.mp4" controls="controls" muted="muted" width="100%"></video>
 
 ### Dashboard Overview
 ![Initial Dashboard](./media/dark_dashboard_1786622491832.png)
