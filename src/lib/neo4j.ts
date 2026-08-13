@@ -9,11 +9,11 @@ export function getDriver(): Driver {
     const password = process.env.NEO4J_PASSWORD;
 
     if (!uri || !password) {
-      throw new Error('Please define NEO4J_URI and NEO4J_PASSWORD in your .env.local file');
+      throw new Error('NEO4J_URI or NEO4J_PASSWORD missing in environment');
     }
 
     driver = neo4j.driver(uri, neo4j.auth.basic(username, password), {
-      disableLosslessIntegers: true, // For easier handling of numbers in JS
+      disableLosslessIntegers: true
     });
   }
   return driver;
