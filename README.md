@@ -45,11 +45,8 @@ npm run dev
 Open [http://localhost:3000](http://localhost:3000) to start investigating.
 
 ---
-
 ## 📸 Demo & Screenshots
 
-### Live Simulation Demo
-![FinCrime Demo Recording](./media/dark_theme_demo_1786622467732.webp)
 
 ### Dashboard Overview
 ![Initial Dashboard](./media/dark_dashboard_1786622491832.png)
