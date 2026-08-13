@@ -49,16 +49,16 @@ Open [http://localhost:3000](http://localhost:3000) to start investigating.
 ## 📸 Demo & Screenshots
 
 ### Live Simulation Demo
-![FinCrime Demo Recording](./media/dark_theme_demo_1786619160953.webp)
+![FinCrime Demo Recording](./media/dark_theme_demo_1786622467732.webp)
 
 ### Dashboard Overview
-![Initial Dashboard](./media/dark_dashboard_1786619262096.png)
+![Initial Dashboard](./media/dark_dashboard_1786622491832.png)
 
 ### Circular Money Mule Detection
-![Circular Mule Rings](./media/dark_mule_rings_1786619324743.png)
+![Circular Mule Rings](./media/dark_mule_rings_1786622541382.png)
 
 ### Shared Device Risk Analysis
-![Shared Device Risk](./media/dark_shared_device_1786619343574.png)
+![Shared Device Risk](./media/dark_shared_device_1786622560325.png)
 
 ---
 
