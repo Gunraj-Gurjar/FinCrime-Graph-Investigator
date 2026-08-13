@@ -137,5 +137,5 @@ https://github.com/Gunraj-Gurjar/FinCrime-Graph-Investigator/raw/master/media/de
 
 ---
 
-### Live Demo URL
+### Hosted Application Demo Link
 **[https://fincrime-graph.vercel.app](https://fincrime-graph.vercel.app)**
